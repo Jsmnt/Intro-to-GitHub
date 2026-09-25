@@ -15,3 +15,6 @@ This repository was created for my activity **Introduction to Git and GitHub**.
 | `notes.txt` | My notes on common Git commands |
 
 Author: Jasmin (@Jsmnt)
+
+## Update
+Tol ung linyang to dinagdag mula sa local machine gamit si boss git
